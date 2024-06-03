@@ -44,7 +44,7 @@ The analysis involves the following steps:
 
 ## Usage
 
-1. Open the Jupyter Notebook file (`WhatsApp_Chat_Analysis.ipynb`) in your Jupyter environment.
+1. Open the Jupyter Notebook file (`WhatsAppGroupChatAnalysis.ipynb`) in your Jupyter environment.
 2. Update the `file` variable with the name of your WhatsApp chat export file.
 3. Customize the `key` variable to specify the time format used in the chat export file (12-hour or 24-hour format).
 4. Run the cells in the notebook to execute the analysis.
